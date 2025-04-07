@@ -4,3 +4,4 @@ Padilla
 Roca
 студент групп 24о-090301/ИИ-2
 кафедра ИВТ ПП
+Rosbiotex,City Moscow
