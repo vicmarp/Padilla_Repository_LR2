@@ -1,5 +1,14 @@
-# Educational text File
+
 
 **Subject:**Introduction to Git SQ
 
 **Date:**April 07,2025
+
+#Prompt for Username
+name = input("Enter your name:
+
+#Query user's age
+age = input("Enter your age:
+
+#Output message
+print(f"Hello,{name}!You are{age} years old.
