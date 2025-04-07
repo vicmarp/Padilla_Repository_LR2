@@ -1,0 +1,5 @@
+# Educational text File
+
+**Subject:**Introduction to Git SQ
+
+**Date:**April 07,2025
